@@ -1,0 +1,49 @@
+h1{
+    color: rgb(252, 235, 0);
+    background-color: #019bce;
+    text-align: center;
+    font-size: 100px;
+    padding: 20px;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#starters_image_div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 5px;
+    border: 5px solid darkblue;
+
+}
+.pokemon_images {
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+#bulbasaur_container {
+    border-radius: 25px;
+    background: lightgreen;
+    padding: 20px;
+    width: auto;
+    height: auto;
+}
+#charmander_container {
+    border-radius: 25px;
+    background: lightsalmon;
+    padding: 20px;
+    width: auto;
+    height: auto;
+}
+#squirtle_container {
+    border-radius: 25px;
+    background: lightblue;
+    padding: 20px;
+    width: auto;
+    height: auto;
+}
